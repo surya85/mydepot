@@ -1,1 +1,2 @@
-This is just an example file used to check the git
+This is just an example file used to check the git 
+And this is the editing of the college
